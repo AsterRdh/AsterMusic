@@ -14,7 +14,7 @@
     "@react-navigation/material-top-tabs": "^5.2.10",
     "@react-navigation/stack": "^5.5.1",
     "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-orientation": "git+https://github.com/yamill/react-native-orientation.git",
     "react-native-reanimated": "^1.9.0",
